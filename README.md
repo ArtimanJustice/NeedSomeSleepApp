@@ -1,5 +1,3 @@
-SleepWave
-
 💤 Welcome to Need Some Sleep 💤
 SleepWave is a serene and intuitive application designed to help you unwind, relax, and drift into a peaceful slumber. Whether you're struggling with insomnia, need a soothing background for meditation, or simply want to enhance your sleep environment, SleepWave offers a curated selection of calming sounds and customizable features to create your perfect bedtime routine.
 
